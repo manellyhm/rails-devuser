@@ -1,2 +1,2 @@
 # rails-devuser
-repositorio ej app rubyonrails con scaffold 
+repositorio es ej app rubyonrails con scaffold, formulario CRUD que pide usuario y correo.
